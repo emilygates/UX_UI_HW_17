@@ -7,13 +7,12 @@ div.logo {
     width: 23%;
     padding: 1%;
 }
-.logo {
+logo {
     text-align: center;
 }
 nav {
-    width: 73%;
+    width: 72%;
     padding: 1%;
-    background-color: lightgray;
 }
 ul {
     width: 50%;
@@ -21,7 +20,7 @@ ul {
 }
 
 /* Hero Image */
-.heroImg {
+.HeroImg {
     height: 600px;
     padding: 25px;
 }
@@ -33,7 +32,7 @@ ul {
 
 /* Footer */
 footer {
-    background-color: #373738;
+    background-color: lightgray;
     padding: 1%;
 }
 footer ul {

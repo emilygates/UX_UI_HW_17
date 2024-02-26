@@ -28,7 +28,7 @@ ul {
 /* Hero Image */
 .HeroImg {
     height: 600px;
-    padding: 25px;
+    padding: 100px;
 }
 .content {
     width: 500px;
@@ -46,6 +46,13 @@ ul {
     border-radius: 15px;
     padding: 10px;
   }
+
+p {
+    font-family: "sf pro display", Arial, Helvetica, sans-serif;
+}
+p.thick {
+    font-weight: bolder;
+}
 
 /* Footer */
 footer {

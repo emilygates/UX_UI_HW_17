@@ -1,3 +1,4 @@
+/* Navbar */
 .inline-block {
     vertical-align: top;
 }
@@ -13,4 +14,14 @@ nav {
 ul {
     width: 50%;
     margin-left: auto;
+}
+
+/* Hero Image */
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
 }
